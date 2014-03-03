@@ -1,0 +1,11 @@
+Operating System: 
+-Windows 7 
+
+RAM: 
+-8 GB
+
+HDD:
+- 
+
+Associated Programs: 
+-Python 3.3

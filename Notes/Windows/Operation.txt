@@ -8,7 +8,9 @@ Operation Process used
 
 concern
 -presently using command line
---must determine if commandline is the sole execution method
+--must determine if command line is the sole execution method
+-privilege and directory issues may keep the server from running
+--e.g. school computers using multiple network and physical drives in tandem
 
 Possible Solution
--Potential GUI implentation inplace of commandline execution
+-Potential GUI implementation in place of command line execution
