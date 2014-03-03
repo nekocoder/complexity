@@ -1,0 +1,14 @@
+3/2/14 - Eryc Duhart
+
+Operation Process used
+-Open command prompt
+-navigate to python directory
+-navigate to scripts directory
+-run command "complexity.exe <directory>"
+
+concern
+-presently using command line
+--must determine if commandline is the sole execution method
+
+Possible Solution
+-Potential GUI implentation inplace of commandline execution

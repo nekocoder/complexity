@@ -1,0 +1,23 @@
+3/2/14 - Eryc Duhart
+
+Installation Process Used
+-Install Python 3.3 using msi
+-Download get-pip.py
+-Run get-pip.py (double click. Python Launcher for Windows)
+-Open command prompt
+-navigate to python program foler
+-navigate to scripts folder
+-run command "pip.exe install Complexity"
+
+Concerns
+-installing Python and Pip are rather easy. Complexity a tad bit less so. 
+--Pip's py file will cue an installation. Complexity's won't.
+-Requires the command line.
+--quick start instructions are in unix. Windows commands are a lot longer (file paths)
+
+Proposed Solutions
+- Possible automation of installation process?
+--batch or exe file that would check for python installation and run the proper command?
+--there are no global environment variables for python's installation to make the job easier. May need to manually check drive for python installations
+
+
